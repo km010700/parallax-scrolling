@@ -24,7 +24,6 @@ function App() {
           <div className='text-content'>Reverse Parallax</div>
         </div>
       </Parallax>
-      <div className='content'></div>
     </div>
   );
 }
